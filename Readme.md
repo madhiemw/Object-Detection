@@ -10,4 +10,4 @@ https://docs.google.com/document/d/1y2x0Hc-fiZqunfPuerK7DgW0cJBy8hekGg-kLkxXnKw/
 6. berikut adalah endpoint yang akand di hit http://localhost:5000/detect_objects (POST)
 7. gunakan postman untuk melakukan testing body yang digunakan adalah form data dengan key name 'file' dan jenis data "Files" lalu input gambar dan response dari endpoint adalah gambar dan juga hasil deteksi berupa box klasifikasi jika memang model melakukan deteksi terhadap PPE yang di train.
 
- ## Untuk melihat history train secara lengkap dapat dilihat pada jupyter notebook yang saya lampirkan pada directory Train Notebook.
+ ## Untuk melihat history dan proses training model secara lengkap dapat dilihat pada jupyter notebook yang saya lampirkan pada directory "Train Notebook".

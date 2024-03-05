@@ -1,0 +1,4 @@
+flask
+super-gradients
+numpy
+roboflow
